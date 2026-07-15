@@ -16,11 +16,10 @@ A production-ready AI pipelines system designed to evaluate and score profession
 
 ## 📸 System Interface Preview
 
-### 🏠 Landing Dashboard — Document & JD Workspace
-![Dashboard Layout](docs/screenshot1_dashboard.png)
 
-### 📊 Structural Feedback — Match Analytics Console
-![Match Evaluation Analytics](docs/screenshot2_metrics.png)
+https://github.com/user-attachments/assets/0571adb5-0e5f-410b-bd1a-5707ca519615
+
+
 
 ---
 
