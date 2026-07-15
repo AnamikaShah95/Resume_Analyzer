@@ -17,7 +17,11 @@ A production-ready AI pipelines system designed to evaluate and score profession
 ## 📸 System Interface Preview
 
 
-https://github.com/user-attachments/assets/0571adb5-0e5f-410b-bd1a-5707ca519615
+
+
+https://github.com/user-attachments/assets/7b29bdbd-94d5-4f17-9cf9-9f8a07a206f8
+
+
 
 
 
