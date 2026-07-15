@@ -120,21 +120,29 @@ Before configuring the system, ensure your workspace meets the following baselin
 
 ## 🛠️ Installation Steps
 
-###1. Clone Project Working Workspace
+### 1. Clone Project Working Workspace
+```text
 git clone [https://github.com/AnamikaShah95/Resume_Analyzer.git](https://github.com/AnamikaShah95/Resume_Analyzer.git)
 cd Resume_Analyzer
-
+```
 ### 2. Build Virtual Environment Sandbox
+```text
 python -m venv venv
 .\venv\Scripts\activate
-
+```
 ### 3. Synchronize Dependency Packages Tree
+```text
 pip install -r requirments.txt
+```
 
 ### 4. Bind Secure Environment Variables 
 #### Initialize a brand new file named `.env` in the root:
+```text
 GROQ_API_KEY=your_actual_groq_cloud_api_key_string
+```
 
 ### 5. Starting the Server
+```text
 streamlit run main.py
+```
 ---
